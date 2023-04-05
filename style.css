@@ -102,5 +102,8 @@ body {
         font-size: 40px;
         color: rgb(35, 13, 233);
       }
+      .card {
+        margin: 5px 8px;
+    }
   }
 
