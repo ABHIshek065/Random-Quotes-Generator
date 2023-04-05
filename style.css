@@ -18,15 +18,18 @@ body {
 }
 
 
+
+
 .content {
     width: 720px;
+    height: 450px;
     margin: 0 auto;
     text-align: center;
   }
   .content h1 {
     font-size: 36px;
     color: #fff;
-    padding-top: 190px;
+    padding-top: 160px;
   }
   
   .content h1::first-letter {
@@ -38,6 +41,8 @@ body {
   }
   
   .btn {
+    display: flex;
+    margin: 30px auto;
     font-size: 18px;
     border: none;
     background-color: #000;
