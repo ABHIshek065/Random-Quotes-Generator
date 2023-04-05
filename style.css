@@ -86,7 +86,7 @@ body {
         width: 520px;
       }
       .card {
-        height: 100vh;
+        height: 900px;
      
     }
   }
@@ -108,7 +108,7 @@ body {
       }
       .card {
         margin: 5px 8px;
-        height: 900px;
+        height: 680px;
     }
   }
 
